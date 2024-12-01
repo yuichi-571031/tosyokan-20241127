@@ -1,7 +1,7 @@
 h4::after {
   content: "";
   display: block;
-  margin-left: 10cm;
+  margin-left: 12cm;
   border-bottom: 1px solid black;
 }
 
@@ -22,7 +22,7 @@ table {
 }
 
 .box1 {
-  padding: 0.3cm 1cm 1.3cm 1cm;
+  padding: 0.3cm 0.5cm 1.3cm 0.5cm;
   margin: 1cm 4.5cm 2cm 4.5cm;
   border: solid 1px black;
 }
