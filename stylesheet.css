@@ -6,7 +6,7 @@ h4::after {
 }
 
 .name {
-  padding-right: 2.3cm;
+  padding-right: 2cm;
 }
 
 .HeaderTable tr:nth-child(1) {
@@ -22,7 +22,7 @@ table {
 }
 
 .box1 {
-  padding: 0.3cm 1cm 1.3cm 1cm;
+  padding: 0.3cm 0.8cm 1.3cm 0.8cm;
   margin: 1cm 4.5cm 2cm 4.5cm;
   border: solid 1px black;
 }
