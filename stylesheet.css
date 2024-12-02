@@ -1,8 +1,9 @@
 h4::after {
   content: "";
-  display: block;
+  display: flex;
   width: 250px;
   border-bottom: 1px solid black;
+  justify-content: flex-end;
 }
 
 .HeaderTable tr:nth-child(1) {
