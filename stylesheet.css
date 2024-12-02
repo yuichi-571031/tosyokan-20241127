@@ -3,7 +3,7 @@ h4::after {
   display: block;
   margin-left: 3.5cm;
   border-bottom: 1px solid black;
-  border: -3cm;
+  left: 75%;
 }
 
 .HeaderTable tr:nth-child(1) {
