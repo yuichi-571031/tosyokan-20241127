@@ -1,7 +1,7 @@
 h4::after {
   content: "";
   display: block;
-  margin-left: 10cm;
+  margin-left: 9cm;
   border-bottom: 1px solid black;
 }
 
