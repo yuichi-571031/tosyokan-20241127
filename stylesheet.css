@@ -1,12 +1,12 @@
 h4::after {
   content: "";
   display: block;
-  margin-left: 13cm;
+  margin-left: 4cm;
   border-bottom: 1px solid black;
 }
 
 .name {
-  padding-right: 2cm;
+  padding-right: 20px;
 }
 
 .HeaderTable tr:nth-child(1) {
