@@ -1,10 +1,8 @@
 h4::after {
   content: "";
   display: block;
-  width: 230px;
+  width: 250px;
   border-bottom: 1px solid black;
-  margin-left: auto;
-  margin-right: 0;
 }
 
 .HeaderTable tr:nth-child(1) {
