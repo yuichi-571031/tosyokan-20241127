@@ -6,7 +6,7 @@ h4::after {
 }
 
 .name {
-  padding-right: 10px;
+  padding-right: 1px;
 }
 
 .HeaderTable tr:nth-child(1) {
