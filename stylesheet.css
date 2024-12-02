@@ -5,10 +5,6 @@ h4::after {
   border-bottom: 1px solid black;
 }
 
-.name {
-  padding-right: 2cm;
-}
-
 .HeaderTable tr:nth-child(1) {
   background-color: silver;
 }
