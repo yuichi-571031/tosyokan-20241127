@@ -2,7 +2,7 @@ h4::after {
   content: "";
   display: block;
   width: 200px;
-  border-bottom: 1px solid black;
+  position: absolute;
 }
 
 .HeaderTable tr:nth-child(1) {
