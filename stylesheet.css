@@ -1,6 +1,4 @@
 h4::after {
-  content: "";
-  display: block;
   width: 250px;
   border-bottom: 1px solid black;
   text-underline-position: right;
