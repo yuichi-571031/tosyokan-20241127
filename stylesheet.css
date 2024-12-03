@@ -1,8 +1,6 @@
-h4::after {
-  content: "";
-  display: block;
+.underline {
+  text-underline-position: under;
   width: 50px;
-  border-bottom: 1px solid black;
 }
 
 .HeaderTable tr:nth-child(1) {
