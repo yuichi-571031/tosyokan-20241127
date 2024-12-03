@@ -3,8 +3,8 @@ h4::after {
   width: 200%;
   height: 1px;
   background-color: black;
-  position: absolute;
-  left: auto;
+  position: relative;
+  left: 50px;
   bottom: 0;
 }
 
