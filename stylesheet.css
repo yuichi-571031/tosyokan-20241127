@@ -4,7 +4,7 @@ h4::after {
   height: 1px;
   background-color: black;
   position: absolute;
-  left: 0;
+  left: auto;
   bottom: 0;
 }
 
