@@ -1,4 +1,4 @@
-h4::after {
+.underline {
   width: 200px;
   text-underline-position: right;
 }
