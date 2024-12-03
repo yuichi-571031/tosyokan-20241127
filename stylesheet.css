@@ -1,4 +1,6 @@
 h4::after {
+  content: "";
+  display: block;
   width: 200px;
   border-bottom: 1px solid black;
 }
