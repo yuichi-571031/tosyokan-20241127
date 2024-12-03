@@ -1,12 +1,8 @@
 h4::after {
   content: "";
-  display: inline-block;
-  width: 0.5px;
-  height: 1px;
-  background-color: black;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  display: block;
+  width: 50px;
+  border-bottom: 1px solid black;
 }
 
 .HeaderTable tr:nth-child(1) {
