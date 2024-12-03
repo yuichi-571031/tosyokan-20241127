@@ -3,6 +3,7 @@ h4::after {
   display: block;
   width: 250px;
   border-bottom: 1px solid black;
+  text-underline-position: right;
 }
 
 .HeaderTable tr:nth-child(1) {
