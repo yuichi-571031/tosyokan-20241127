@@ -1,7 +1,7 @@
 h4::after {
   content: "";
-  display: block;
-  width: 100px;
+  display: inline;
+  width: 150px;
   position: absolute;
   left: 0;
   bottom: 0;
