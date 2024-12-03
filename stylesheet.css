@@ -1,10 +1,11 @@
 h4::after {
   content: "";
-  width: 200%;
+  display: inline;
+  width: 30%;
   height: 1px;
   background-color: black;
   position: relative;
-  left: 50px;
+  left: 5px;
   bottom: 0;
 }
 
