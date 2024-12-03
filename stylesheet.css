@@ -1,6 +1,6 @@
 h4::after {
   content: "";
-  width: 150px;
+  width: 200%;
   height: 1px;
   background-color: black;
   position: absolute;
