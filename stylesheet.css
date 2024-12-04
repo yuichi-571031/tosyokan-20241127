@@ -2,11 +2,10 @@
   border-bottom: solid 1px;
   width: 150px;  
   text-align: left;
-  left: 5cm;
 }
 
 .name {
-  padding-right: 5cm;
+  padding-right: 8cm;
 }
 
 .HeaderTable tr:nth-child(1) {
