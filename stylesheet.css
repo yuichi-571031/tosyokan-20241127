@@ -1,11 +1,6 @@
 .underline {
-  border-bottom: solid 1px;
-  width: 150px;  
-  text-align: left;
-}
-
-.name {
-  padding-right: 13cm;
+  text-decoration: underline;
+  text-underline-offset: 1.5cm;
 }
 
 .HeaderTable tr:nth-child(1) {
