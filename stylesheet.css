@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.name {
+  padding-left: 20px;
+}
+
 .HeaderTable tr:nth-child(1) {
   background-color: silver;
 }
