@@ -1,11 +1,11 @@
 .underline {
   border-bottom: solid 1px;
   width: 150px;  
-  text-align: center;
+  text-align: right;
 }
 
 .name {
-  padding-right: 2cm;
+  padding-left: 1cm;
 }
 
 .HeaderTable tr:nth-child(1) {
