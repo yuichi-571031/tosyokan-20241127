@@ -1,6 +1,7 @@
 .underline {
   border-bottom: solid 1px;
   width: 150px;
+  text-decoration: underline;
   text-underline-offset: 15em;
 }
 
