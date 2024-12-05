@@ -1,4 +1,8 @@
-
+.underline {
+  border-bottom: solid 1px;
+  width: 150px;
+  padding-right: 50px;
+}
 
 .HeaderTable tr:nth-child(1) {
   background-color: silver;
