@@ -1,7 +1,6 @@
 .underline {
   border-bottom: solid 1px;
   width: 150px;
-  text-underline-offset: 10em;
 }
 
 .HeaderTable tr:nth-child(1) {
