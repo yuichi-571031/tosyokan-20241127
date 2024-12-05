@@ -2,6 +2,8 @@
   border-bottom: solid 1px;
   width: 150px;
   text-align: left;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .HeaderTable tr:nth-child(1) {
