@@ -1,7 +1,7 @@
 .underline {
   border-bottom: solid 1px;
   width: 150px;
-  padding-right: 150px;
+  text-align: right;
 }
 
 .HeaderTable tr:nth-child(1) {
