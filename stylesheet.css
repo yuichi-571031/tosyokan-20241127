@@ -1,11 +1,8 @@
-.underline {
-  border-bottom: solid 1px;
-  width: 150px;
-  text-align: center;
-}
-
-.name {
-  padding-right: 50px;
+h4::after {
+  content: "";
+  display: block;
+  margin-left: 14cm;
+  border-bottom: 1px solid black;
 }
 
 .HeaderTable tr:nth-child(1) {
